@@ -1,0 +1,3 @@
+/home/kam/CLionProjects/COC_C++_course/cmake-build-debug/CMakeFiles/COC_C___course.dir
+/home/kam/CLionProjects/COC_C++_course/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kam/CLionProjects/COC_C++_course/cmake-build-debug/CMakeFiles/rebuild_cache.dir
